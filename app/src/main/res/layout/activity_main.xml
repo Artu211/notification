@@ -8,4 +8,22 @@
         android:layout_gravity="center"
         android:text="kliknij mnie"
         android:id="@+id/guzik"/>
+
+<!--    <Button android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="center"-->
+<!--        android:text="kliknij v2"-->
+<!--        android:id="@+id/guzik2"/>-->
+
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="monke"
+        android:id="@+id/guzik3"/>
+
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="custom"
+        android:id="@+id/guzik4"/>
 </LinearLayout>
